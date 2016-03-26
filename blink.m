@@ -16,15 +16,15 @@ else
 end
 
 if(releft==1)
-    l='Tracking Left Eye: Open ';
+    l='Tracking Left Eye: Eye status - Open ';
 else
-    l='Tracking Left Eye: Closed';
+    l='Tracking Left Eye:Eye status - Closed';
 end
 
 if(reright==1)
-    r='Tracking Right Eye: Open';
+    r='Tracking Right Eye: Eye status -Open';
 else
-    r='Tracking Right Eye: Closed';
+    r='Tracking Right Eye: Eye status - Closed';
 end
 
 
