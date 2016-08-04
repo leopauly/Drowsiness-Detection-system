@@ -3,8 +3,8 @@ Drowsiness-detection-system
 This repository consists of my programs written for "Eye tracking and blink detection from video frames" that is used in my Drowsiness Detection Project.
 
 - Reference paper for blink detection : (to be updated)
-- Reference paper for eye tracking :http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7449931)
-- Reference paper for Drowsiness detection project :http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7434232)
+- Reference paper for eye tracking :http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7449931
+- Reference paper for Drowsiness detection project :http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7434232
 
 To run this program:
 - clone the repository in to your computer in to the same directory
