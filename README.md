@@ -2,7 +2,7 @@ Drowsiness-detection-system
 ---------------------------
 This repository consists of my programs written for "Eye tracking and blink detection from video frames" that is used in my Drowsiness Detection Project.
 
-- Reference paper for blink detection : (to be updated)
+- Reference paper for blink detection : http://www.mecs-press.org/ijigsp/ijigsp-v8-n10/IJIGSP-V8-N10-2.pdf
 - Reference paper for eye tracking: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7449931
 - Reference paper for Drowsiness detection project: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7434232
 
